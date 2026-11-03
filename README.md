@@ -3,7 +3,8 @@
 An interactive educational simulation exploring the economics of **Surgical Robotics**, **Clinical Artificial Intelligence**, and **Dedicated Broadband Infrastructure (*Sanità Connessa* PNRR 1–10 Gbps)** in public hospitals.
 
 ## How to Play
-- Open `index.html` directly in any modern browser (desktop or mobile), or visit the hosted **GitHub Pages** link.
+- **Play Live in Browser:** https://zabbonat.github.io/fiber-and-scalpels/
+- Or open `index.html` directly in any modern browser (desktop or mobile).
 - Choose between a **Provincial Capital Hospital** (*Main Sample: 213 hospitals*) and a **Peripheral Hospital** (*Step 7 Subsample: 164 non-capital hospitals*).
 - Walk through the hospital corridor using the **Arrow Keys** (`⬆️ ⬇️ ⬅️ ➡️` or `WASD` / touch controls) and unlock all **5 wards sequentially**:
   1. **Robotic Operating Room (2019–2021)** — *Da Vinci Steady-Hand Surgery* & surgeon skill counterfactuals.
